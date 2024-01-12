@@ -8,8 +8,6 @@ To get started, clone the repository and install the dependencies:
 npm install</code>
 
 <br/>
-<br/>
-
 
 <h3>Then, run the application:</h3>
 

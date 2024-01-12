@@ -1,4 +1,4 @@
-<h1>This is an Electron application that allows you to record your screen. It uses the desktopCapturer module from Electron to capture the screen, and the MediaRecorder API to record the video.</h1>
+<h2>This is an Electron application that allows you to record your screen. It uses the desktopCapturer module from Electron to capture the screen, and the MediaRecorder API to record the video.</h2>
 
 <h3>Getting Started</h3>
 To get started, clone the repository and install the dependencies:

@@ -4,19 +4,15 @@
 To get started, clone the repository and install the dependencies:
 <br/>
 
-<code>
-cd screen-recorderv1
-npm install
-</code>
+<code>cd screen-recorderv1
+npm install</code>
 
 <br/>
 <br/>
 Then, run the application:
 
-<code>
-npm start
+<code>npm start</code>
 Using the Application
-</code>
 <br/>
 <br/>
 Once the application is running, you can click the "Start" button to begin recording your screen. The video will be recorded until you click the "Stop" button. The video will then be saved to your computer in WebM format.
@@ -27,15 +23,5 @@ Building the Application
 To build the application for distribution, run the following command:
 
 <code>npm run make</code>
+<br/>
 This will create an out directory containing the built application for your platform.
-
-Configuration
-The following configuration options are available in the forge.config.js file:
-
-packagerConfig.asar: Whether to package the application as an ASAR archive. Default is true.
-makers: An array of maker configurations for packaging the application for different platforms.
-plugins: An array of plugin configurations for customizing the build process.
-The following configuration options are available in the package.json file:
-
-config.forge.packagerConfig: Additional packager configuration options.
-config.forge.makers: An array of maker configurations for packaging the application for different platforms.

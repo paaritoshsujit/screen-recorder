@@ -9,7 +9,9 @@ npm install</code>
 
 <br/>
 <br/>
-Then, run the application:
+
+
+<h3>Then, run the application:</h3>
 
 <code>npm start</code>
 Using the Application
@@ -19,7 +21,7 @@ Once the application is running, you can click the "Start" button to begin recor
 
 The application also allows you to choose a specific window or screen to record. To do this, click the "Choose a Video Source" button and select the desired window or screen from the menu.
 
-Building the Application
+<h3>Building the Application</h3>
 To build the application for distribution, run the following command:
 
 <code>npm run make</code>

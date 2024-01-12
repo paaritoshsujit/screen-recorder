@@ -18,10 +18,8 @@ The application also allows you to choose a specific window or screen to record.
 Building the Application
 To build the application for distribution, run the following command:
 
-bash
-Copy code
-npm run make
-This will create a out directory containing the built application for your platform.
+<code>npm run make</code>
+This will create an out directory containing the built application for your platform.
 
 Configuration
 The following configuration options are available in the forge.config.js file:

@@ -3,14 +3,22 @@
 <h3>Getting Started</h3>
 To get started, clone the repository and install the dependencies:
 <br/>
+
+<code>
 cd screen-recorderv1
 npm install
+</code>
 
+<br/>
 <br/>
 Then, run the application:
 
+<code>
 npm start
 Using the Application
+</code>
+<br/>
+<br/>
 Once the application is running, you can click the "Start" button to begin recording your screen. The video will be recorded until you click the "Stop" button. The video will then be saved to your computer in WebM format.
 
 The application also allows you to choose a specific window or screen to record. To do this, click the "Choose a Video Source" button and select the desired window or screen from the menu.

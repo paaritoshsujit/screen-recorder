@@ -1,17 +1,14 @@
 <h1>This is an Electron application that allows you to record your screen. It uses the desktopCapturer module from Electron to capture the screen, and the MediaRecorder API to record the video.</h1>
 
-Getting Started
+<h3>Getting Started</h3>
 To get started, clone the repository and install the dependencies:
-
-bash
-Copy code
-git clone https://github.com/jeffd23/tron-forge.git
-cd tron-forge
+<br/>
+cd screen-recorderv1
 npm install
+
+<br/>
 Then, run the application:
 
-bash
-Copy code
 npm start
 Using the Application
 Once the application is running, you can click the "Start" button to begin recording your screen. The video will be recorded until you click the "Stop" button. The video will then be saved to your computer in WebM format.
